@@ -1,0 +1,39 @@
+/* Big tablet to 1200px */
+@media only sceen and (max-width: 1200px){
+
+}
+/* Big tablet */
+@media only screen and (max-width: 1023px){
+	
+
+}
+/*phonesand small tablets */
+@media only screen and (max-width: 767px){
+ .onTab{
+ 	display: none;
+ 	
+ }
+}
+/* small smartphones */
+@media only screen and (max-width: 480px){
+
+.display-2{
+	margin-left: -40px;
+}
+.display-3{
+	font-size: 60px;
+}
+.onDesk{
+	display: none;
+}
+.gifts{
+	font-size: 40px;
+}
+p{
+	margin: 0;
+	padding: 0;
+}
+.btn-info{
+	text-align: left;
+}
+}
